@@ -10,7 +10,7 @@ public class Main extends App {
         padding(10); }
 
     @Override public void setup() {
-        Label galaxyNote10 = new Label("Say hi to the new galaxy note 10");
+        Label galaxyNote10 = new Label("Say Hi to the new galaxy note 10");
         TextField name = new TextField();
         name.setPromptText("Name");
         Label ghs = new Label("");
